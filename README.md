@@ -1,4 +1,4 @@
-##  Hi guys, me chamou Everton yan e estou cursando Engenheiria da Computação.
+##  Bem vidos ao meu perfil, me chamou Everton yan de jesus souza, estou cursando Engenheiria da Computação.
 <div align="center">
   <a href="https://github.com/Evertinh0">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Evertinh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
