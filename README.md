@@ -1,15 +1,8 @@
-##  Bem vindos ao meu perfil, me chamou Everton yan de jesus souza, estou cursando Engenheiria da Computação.
-<div align="center">
-  <a href="https://github.com/Evertinh0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Evertinh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evertinh0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# Olá, me chamo Everton yan ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-  ##
- 
-<div>
-  <a href="https://www.linkedin.com/in/everton-yan-de-jesus-souza-98754597/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![ Animação de cobra ](https://github.com/LuizGusta21/LuizGusta21/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
