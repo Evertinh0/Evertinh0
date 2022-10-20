@@ -1,8 +1,8 @@
 # Olá, me chamo Everton yan ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-# Atualmente trabalho na empresa Teiu comercio e industria Ltda.
-# Estou cursando o curso de Engenharia da computação.
+<p> Atualmente trabalho na empresa Teiu comercio e industria Ltda.
+<p> Estou cursando o curso de Engenharia da computação.
 
 
 ## Estou aprendendo
